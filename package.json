@@ -1,4 +1,5 @@
 {
+  "name": "spotify-2023-data-visualization",
   "type": "module",
   "private": true,
   "scripts": {
@@ -9,12 +10,7 @@
     "observable": "observable"
   },
   "dependencies": {
-    "20": "^3.1.9",
-    "@observablehq/framework": "latest",
-    "d3-dsv": "^3.0.1",
-    "d3-time-format": "^4.1.0",
-    "numpy": "^0.0.1",
-    "upgrade": "^1.1.0"
+    "@observablehq/framework": "1.6.0"
   },
   "devDependencies": {
     "rimraf": "^5.0.5"
