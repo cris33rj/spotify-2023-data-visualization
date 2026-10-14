@@ -42,7 +42,6 @@ toc: false
 }
 
 p { max-width: none; }
->
 
 </style>
 
@@ -72,7 +71,7 @@ p { max-width: none; }
 </span>
 <span class="card"><h4>3 - Fechamento<br></h4>
     <div class="card">
-        <h2><a href="5- Discussao">3.1 - Discussão</a></h2>
+        <h2><a href="5-Discussao">3.1 - Discussão</a></h2>
     </div>
     <div class="card" >
         <h2><a href="6-Conclusao">3.2 - Conclusão</a></h2>
