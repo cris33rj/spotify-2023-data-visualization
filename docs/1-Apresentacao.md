@@ -27,8 +27,7 @@ Este trabalho de pesquisa foi produzido no curso de Mestrado em Computação - P
 
 | Edel Melo          | Cristiano Nascimento          |
 | :----:             |    :----:           |
-| Aluno de Mestrado <BR> Mat. M048.123.012  | Aluno de Mestrado <br> Mat. M048.123.010  |
-| <address><a href="mailto:edelmelo@id.uff.br">edelmelo@id.uff.br</a></address> | <address><a href="mailto:cristiano_nascimento@id.uff.br">mailto:cristiano_nascimento@id.uff.br</a></address> |
+| Aluno de Mestrado  | Aluno de Mestrado <br> <a href="https://github.com/cris33rj">github.com/cris33rj</a> |
 
 </div>
 </div>
